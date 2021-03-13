@@ -1,3 +1,4 @@
+/*
 package net.guides.springboot2.springboot2jpacrudexample;
 
 import org.junit.Test;
@@ -14,3 +15,4 @@ public class ApplicationTests {
 	}
 
 }
+*/
