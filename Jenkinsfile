@@ -5,4 +5,7 @@ node{
     stage('Build(compile & deployable artifact)'){
             sh 'mvn clean package'
       }
+    stage('Email-Notification'){
+            
+      }
 }
