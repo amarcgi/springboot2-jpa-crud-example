@@ -8,7 +8,7 @@ node{
           sh "${mvnHome}/bin/mvn sonar:sonar"
         }
     }
-    
+       
     stage('Build(compile & deployable artifact)'){
             sh 'mvn clean package'
       }
